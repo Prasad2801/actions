@@ -14,5 +14,5 @@ jobs:
         run:|
         echo "I will fail"
         echo "I will fail"
-      -name: Say goodbye
-          run: echo "Goodbye!"
+      #-name: Say goodbye
+          #run: echo "Goodbye!"
